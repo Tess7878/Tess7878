@@ -16,7 +16,7 @@ steps:
   - name: Generate contribution snake
     uses: Platane/snk@v3
     with:
-      github_user_name: isui4554
+      github_user_name: Tess7878
       outputs: |
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
